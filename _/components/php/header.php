@@ -2,13 +2,13 @@
 	<div class="col-lg-12">
 		<header class="clearfix">
 			<section class="branding">
-				<a href="index.php"><img src="/rouxconferenceappmbehn/images/misc/ralogo_monogram.png" alt="Logo for Roux Conference"></a>
+				<a href="index.php"><img src="images/misc/ralogo_monogram.png" alt="Logo for Roux Conference"></a>
 			</section><!-- branding -->
 			<section class="navbar">
 			<ul class="nav navbar-nav">
-				<li><a href="/rouxconferenceappmbehn/index.php">Home</a></li>
-				<li><a href="/rouxconferenceappmbehn/venuetravel.php">Venue/Travel</a></li>
-				<li><a href="/rouxconferenceappmbehn/schedule.php">Schedule</a></li>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="venuetravel.php">Venue/Travel</a></li>
+				<li><a href="schedule.php">Schedule</a></li>
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Artists <span class="caret"></span></a>
 						<ul class="dropdown-menu" rold="menu" aria-labelledby="dropdownMenu">
@@ -30,7 +30,7 @@
 						</ul><!-- dropdown menu -->
 
 					</li>
-				<li><a href="/rouxconferenceappmbehn/register.php">Register</a></li>
+				<li><a href="register.php">Register</a></li>
 			</ul><!-- navbar -->
 				
 			</section><!-- navbar -->
