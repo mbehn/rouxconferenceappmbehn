@@ -20,8 +20,8 @@
     <![endif]-->
   </head>
   <body id="privacy-policy">
-  <?php include '_/components/php/header.php' ?>
     <section class="container">
+        <?php include '_/components/php/header.php' ?>
             <div class="content row">
                 <section class="main col col-lg-8">
                 </section>
