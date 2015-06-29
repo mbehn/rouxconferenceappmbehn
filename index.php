@@ -36,8 +36,10 @@
                 <section class="main col col-lg-8">
                 	<?php include '_/components/php/article-intro.php' ?>
                 	<?php include '_/components/php/article-abouttheartists.php' ?>
+                  <?php include '_/components/php/article-aboutthevenue.php' ?>
                 </section>
                 <section class="sidebar col col-lg-4">  
+                  <?php include '_/components/php/aside-register.php' ?>
                 </section><!-- sidebar -->
             </div><!-- content -->
         <?php include '_/components/php/footer.php' ?>
