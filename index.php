@@ -40,6 +40,7 @@
                 </section>
                 <section class="sidebar col col-lg-4">  
                   <?php include '_/components/php/aside-register.php' ?>
+                  <?php include '_/components/php/aside-lastyear.php' ?>
                 </section><!-- sidebar -->
             </div><!-- content -->
         <?php include '_/components/php/footer.php' ?>
